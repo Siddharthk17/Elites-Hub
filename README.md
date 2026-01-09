@@ -4,7 +4,7 @@
 
 ### **Elite Financial Intelligence Platform**
 
-[![License](https://img.shields.io/badge/License-MIT-gold. svg? style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-gold. svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-3.0_Pro-blue. svg?style=for-the-badge&logo=semantic-release&logoColor=white)](https://github.com/Siddharthk17/Elites-Hub)
 [![Status](https://img.shields.io/badge/Status-Live-success.svg?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/Siddharthk17/Elites-Hub)
 
@@ -14,11 +14,11 @@
 
 *From Central Banks to Crypto Analytics • From SEC Filings to Satellite Data*
 
-[🚀 **Launch Platform**](#-quick-start) • [📊 **View Sources**](#-data-categories) • [🎨 **Features**](#-features) • [🛠️ **Tech Stack**](#%EF%B8%8F-tech-stack)
+[🚀 **Launch Platform**](#-quick-start) • [📊 **View Sources**](#-data-categories) • [🎨 **Features**](#-features) • [🛠️ **Tech Stack**](#️-tech-stack)
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp. com? font=Space+Grotesk&weight=600&size=24&pause=1000&color=6BB6FF&center=true&vCenter=true&width=600&lines=250%2B+Elite+Financial+Data+Sources;Institutional-Grade+Intelligence;Real-Time+Market+Analytics;Powered+by+Advanced+AI;One+Platform%2C+Infinite+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com? font=Space+Grotesk&weight=600&size=24&pause=1000&color=6BB6FF&center=true&vCenter=true&width=600&lines=250%2B+Elite+Financial+Data+Sources;Institutional-Grade+Intelligence;Real-Time+Market+Analytics;Powered+by+Advanced+AI;One+Platform%2C+Infinite+Insights" alt="Typing SVG" />
 
 </div>
 
@@ -31,7 +31,7 @@
 <div align="center">
 
 | 📊 **250+ Sources** | 🏆 **95% Institutional** | ⭐ **9.8 Avg Rating** | 🔥 **20+ Categories** |
-|:-------------------:|:------------------------:|:---------------------:|:---------------------:|
+|: -------------------:|:------------------------:|:---------------------:|:---------------------:|
 | Elite Data Sources | Verified Quality | Premium Rating | Comprehensive Coverage |
 
 </div>
@@ -69,7 +69,7 @@
 
 ### ⚡ **Performance**
 - **Zero Dependencies** - Pure Vanilla JS
-- **Blazing Fast** - <100ms load time
+- **Blazing Fast** - Sub 100ms load time
 - **Responsive Design** - Mobile-first
 - **Offline Ready** - Static deployment
 
@@ -84,7 +84,7 @@
 <div align="center">
 
 | Category | Sources | Elite | Avg Rating |
-|----------|:-------:|: -----:|:----------:|
+|----------|: -------:|:-----:|:----------:|
 | 🔢 Market Data & Real-Time Feeds | 19 | 8 | 9.4 |
 | 🔌 Institutional APIs & Data Feeds | 15 | 12 | 9.4 |
 | 🏦 Central Banks & Economic Data | 28 | 20 | 9.5 |
@@ -143,8 +143,8 @@ php -S localhost:8000
 
 <div align="center">
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone? repository-url=https://github.com/Siddharthk17/Elites-Hub)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy? repository=https://github.com/Siddharthk17/Elites-Hub)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Siddharthk17/Elites-Hub)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button. svg)](https://app.netlify.com/start/deploy? repository=https://github.com/Siddharthk17/Elites-Hub)
 
 </div>
 
@@ -154,9 +154,9 @@ php -S localhost:8000
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E? style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6? style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
 
@@ -166,12 +166,12 @@ php -S localhost:8000
 ├── 📄 index.html          # Main entry point
 ├── 📁 assets/
 │   ├── 📁 CSS/
-│   │   ├── main.css       # Core styles & glassmorphism
+│   │   ├��─ main.css       # Core styles & glassmorphism
 │   │   └── ad-filters.css # Additional filters
 │   └── 📁 JS/
 │       ├── app.js         # Application logic & data
 │       └── vendor/        # Third-party scripts
-└── 📄 README.md           # You're reading it!
+└── 📄 README.md           # You're reading it! 
 ```
 
 ### Design Philosophy
@@ -203,12 +203,6 @@ php -S localhost:8000
 --gold:           #FFD700;  /* Premium Gold */
 --gold-dark:      #FFA500;  /* Dark Gold Accent */
 ```
-
-### Typography
-
-- **Headlines**: Space Grotesk (300-700)
-- **Body Text**: Inter (300-900)
-- **Monospace**: System default
 
 ---
 
@@ -270,10 +264,6 @@ Contributions are welcome! Here's how you can help:
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-```
-MIT License - Feel free to use, modify, and distribute! 
-```
-
 ---
 
 ## 👨‍💻 Authors
@@ -282,8 +272,28 @@ MIT License - Feel free to use, modify, and distribute!
 
 **Developed with ❤️ by**
 
-| <img src="https://github.com/Siddharthk17.png" width="100px;" alt="Siddharth Kakade"/><br /><sub><b>Siddharth Kakade</b></sub><br />[@Siddharthk17](https://github.com/Siddharthk17) | <img src="https://ui-avatars.com/api/?name=Sharvani+Marne&background=4A90E2&color=fff&size=100" width="100px;" alt="Sharvani Marne"/><br /><sub><b>Sharvani Marne</b></sub><br />Co-Developer |
-|: ---:|:---:|
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Siddharthk17">
+        <img src="https://github.com/Siddharthk17.png" width="100px;" alt="Siddharth Kakade"/>
+        <br />
+        <sub><b>Siddharth Kakade</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/Siddharthk17">@Siddharthk17</a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://ui-avatars.com/api/?name=Sharvani+Marne&background=4A90E2&color=fff&size=100" width="100px;" alt="Sharvani Marne"/>
+        <br />
+        <sub><b>Sharvani Marne</b></sub>
+      </a>
+      <br />
+      <span>Co-Developer</span>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -293,10 +303,10 @@ MIT License - Feel free to use, modify, and distribute!
 
 If this project helped you, please consider: 
 
-- **⭐ Starring** this repository
-- **🍴 Forking** for your own use
-- **🐦 Sharing** on social media
-- **💬 Spreading** the word
+- ⭐ **Starring** this repository
+- 🍴 **Forking** for your own use
+- 🐦 **Sharing** on social media
+- 💬 **Spreading** the word
 
 ---
 
@@ -308,7 +318,7 @@ If this project helped you, please consider:
 
 *Empowering Financial Intelligence for Everyone*
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg? style=flat-square)](https://github.com/Siddharthk17/Elites-Hub)
+[![Made with Love](https://img.shields.io/badge/Made%20with-Love-red.svg?style=flat-square)](https://github.com/Siddharthk17/Elites-Hub)
 [![Awesome](https://img.shields.io/badge/Awesome-Yes-blueviolet.svg?style=flat-square)](https://github.com/Siddharthk17/Elites-Hub)
 
 </div>
