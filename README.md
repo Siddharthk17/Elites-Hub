@@ -4,8 +4,8 @@
 
 ### **Elite Financial Intelligence Platform**
 
-[![License](https://img.shields.io/badge/License-MIT-gold.svg? style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-3.0_Pro-blue.svg? style=for-the-badge&logo=semantic-release&logoColor=white)](https://github.com/Siddharthk17/Elites-Hub)
+[![License](https://img.shields.io/badge/License-MIT-gold. svg? style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-3.0_Pro-blue. svg?style=for-the-badge&logo=semantic-release&logoColor=white)](https://github.com/Siddharthk17/Elites-Hub)
 [![Status](https://img.shields.io/badge/Status-Live-success.svg?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/Siddharthk17/Elites-Hub)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F16,50:4A90E2,100:FFD700&height=200&section=header&text=ARTEMIS&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=The%20Ultimate%20Financial%20Data%20Gateway&descAlignY=55&descSize=20" width="100%"/>
@@ -14,24 +14,24 @@
 
 *From Central Banks to Crypto Analytics • From SEC Filings to Satellite Data*
 
-[🚀 **Launch Platform**](#-quick-start) • [📊 **View Sources**](#-data-categories) • [🎨 **Features**](#-features) • [🛠️ **Tech Stack**](#️-tech-stack)
+[🚀 **Launch Platform**](#-quick-start) • [📊 **View Sources**](#-data-categories) • [🎨 **Features**](#-features) • [🛠️ **Tech Stack**](#%EF%B8%8F-tech-stack)
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com? font=Space+Grotesk&weight=600&size=24&pause=1000&color=6BB6FF&center=true&vCenter=true&width=600&lines=250%2B+Elite+Financial+Data+Sources;Institutional-Grade+Intelligence;Real-Time+Market+Analytics;Powered+by+Advanced+AI;One+Platform%2C+Infinite+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp. com? font=Space+Grotesk&weight=600&size=24&pause=1000&color=6BB6FF&center=true&vCenter=true&width=600&lines=250%2B+Elite+Financial+Data+Sources;Institutional-Grade+Intelligence;Real-Time+Market+Analytics;Powered+by+Advanced+AI;One+Platform%2C+Infinite+Insights" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🌟 What is Artemis? 
+## 🌟 What is Artemis?
 
 **Artemis** is a next-generation financial intelligence platform that serves as your **single gateway** to the world's most trusted financial data sources. Whether you're a quantitative trader, financial analyst, hedge fund researcher, or crypto enthusiast, Artemis provides curated access to institutional-grade data that typically costs thousands of dollars. 
 
 <div align="center">
 
 | 📊 **250+ Sources** | 🏆 **95% Institutional** | ⭐ **9.8 Avg Rating** | 🔥 **20+ Categories** |
-|: ---:|:---:|:---:|:---:|
+|:-------------------:|:------------------------:|:---------------------:|:---------------------:|
 | Elite Data Sources | Verified Quality | Premium Rating | Comprehensive Coverage |
 
 </div>
@@ -84,7 +84,7 @@
 <div align="center">
 
 | Category | Sources | Elite | Avg Rating |
-|: ---------|:-------:|:-----:|:----------:|
+|----------|:-------:|: -----:|:----------:|
 | 🔢 Market Data & Real-Time Feeds | 19 | 8 | 9.4 |
 | 🔌 Institutional APIs & Data Feeds | 15 | 12 | 9.4 |
 | 🏦 Central Banks & Economic Data | 28 | 20 | 9.5 |
@@ -118,7 +118,7 @@
 ### Option 1: Direct Use
 ```bash
 # Clone the repository
-git clone https://github.com/Siddharthk17/Elites-Hub.git
+git clone https://github.com/Siddharthk17/Elites-Hub. git
 
 # Navigate to directory
 cd Elites-Hub
@@ -141,8 +141,12 @@ php -S localhost:8000
 
 ### Option 3: Deploy Instantly
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Siddharthk17/Elites-Hub)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button. svg)](https://app.netlify.com/start/deploy? repository=https://github.com/Siddharthk17/Elites-Hub)
+<div align="center">
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone? repository-url=https://github.com/Siddharthk17/Elites-Hub)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy? repository=https://github.com/Siddharthk17/Elites-Hub)
+
+</div>
 
 ---
 
@@ -150,9 +154,9 @@ php -S localhost:8000
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E? style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6? style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
 
@@ -188,16 +192,16 @@ php -S localhost:8000
 
 ```css
 /* Glacier Theme */
---glacier-dark:    #0A0F16   /* Primary Background */
---glacier-deep:   #0F1419   /* Secondary Background */
---glacier-mid:    #1A2332   /* Cards & Containers */
---glacier-blue:   #2A3F5A   /* Borders & Accents */
---glacier-bright: #4A90E2   /* Primary Blue */
---glacier-light:  #6BB6FF   /* Highlight Blue */
---glacier-ice:    #87CEEB   /* Ice Blue */
---glacier-pure:   #B8E6FF   /* Pure Light Blue */
---gold:            #FFD700   /* Premium Gold */
---gold-dark:      #FFA500   /* Dark Gold Accent */
+--glacier-dark:    #0A0F16;  /* Primary Background */
+--glacier-deep:   #0F1419;  /* Secondary Background */
+--glacier-mid:    #1A2332;  /* Cards & Containers */
+--glacier-blue:   #2A3F5A;  /* Borders & Accents */
+--glacier-bright: #4A90E2;  /* Primary Blue */
+--glacier-light:  #6BB6FF;  /* Highlight Blue */
+--glacier-ice:    #87CEEB;  /* Ice Blue */
+--glacier-pure:   #B8E6FF;  /* Pure Light Blue */
+--gold:           #FFD700;  /* Premium Gold */
+--gold-dark:      #FFA500;  /* Dark Gold Accent */
 ```
 
 ### Typography
@@ -225,8 +229,8 @@ php -S localhost:8000
 <summary><b>🏆 Top Elite Sources (Click to expand)</b></summary>
 
 | Source | Category | Rating |
-|--------|----------|--------|
-| **FRED** | Central Banks | 10. 0 ⭐ |
+|--------|----------|: ------:|
+| **FRED** | Central Banks | 10.0 ⭐ |
 | **SEC EDGAR** | Regulatory | 10.0 ⭐ |
 | **CBOE** | Options | 9.9 ⭐ |
 | **NBER** | Academic | 9.9 ⭐ |
@@ -252,6 +256,7 @@ Contributions are welcome! Here's how you can help:
 5. **🔃 Open** a Pull Request
 
 ### Contribution Ideas
+
 - [ ] Add more data sources
 - [ ] Implement dark/light theme toggle
 - [ ] Add favorites/bookmarks feature
@@ -277,20 +282,8 @@ MIT License - Feel free to use, modify, and distribute!
 
 **Developed with ❤️ by**
 
-<table>
-<tr>
-<td align="center">
-<img src="https://github.com/Siddharthk17. png" width="100px;" alt="Siddharth Kakade"/><br />
-<sub><b>Siddharth Kakade</b></sub><br />
-<a href="https://github.com/Siddharthk17">@Siddharthk17</a>
-</td>
-<td align="center">
-<img src="https://avatars.githubusercontent.com/u/0?s=100" width="100px;" alt="Sharvani Marne"/><br />
-<sub><b>Sharvani Marne</b></sub><br />
-<a href="#">Co-Developer</a>
-</td>
-</tr>
-</table>
+| <img src="https://github.com/Siddharthk17.png" width="100px;" alt="Siddharth Kakade"/><br /><sub><b>Siddharth Kakade</b></sub><br />[@Siddharthk17](https://github.com/Siddharthk17) | <img src="https://ui-avatars.com/api/?name=Sharvani+Marne&background=4A90E2&color=fff&size=100" width="100px;" alt="Sharvani Marne"/><br /><sub><b>Sharvani Marne</b></sub><br />Co-Developer |
+|: ---:|:---:|
 
 </div>
 
@@ -301,8 +294,9 @@ MIT License - Feel free to use, modify, and distribute!
 If this project helped you, please consider: 
 
 - **⭐ Starring** this repository
+- **🍴 Forking** for your own use
 - **🐦 Sharing** on social media
-- **☕ Buying us a coffee** (link coming soon)
+- **💬 Spreading** the word
 
 ---
 
@@ -310,11 +304,11 @@ If this project helped you, please consider:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F16,50:4A90E2,100:FFD700&height=120&section=footer" width="100%"/>
 
-**© 2025 Artemis. All Rights Reserved.**
+**© 2025 Artemis.  All Rights Reserved.**
 
 *Empowering Financial Intelligence for Everyone*
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg?style=flat-square)](https://github.com/Siddharthk17/Elites-Hub)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg? style=flat-square)](https://github.com/Siddharthk17/Elites-Hub)
 [![Awesome](https://img.shields.io/badge/Awesome-Yes-blueviolet.svg?style=flat-square)](https://github.com/Siddharthk17/Elites-Hub)
 
 </div>
