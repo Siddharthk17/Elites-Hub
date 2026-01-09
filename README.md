@@ -66,7 +66,7 @@ Artemis is a next-generation financial intelligence platform providing access to
 
 ## 🚀 Quick Start
 
-**Live Site:** https://artemis-fintellihub. netlify.app/
+**Live Site:** https://artemis-fintellihub.netlify.app/
 
 **Run Locally:**
 ```bash
@@ -138,7 +138,7 @@ Project Structure
 
 **Siddharth Kakade** - [@Siddharthk17](https://github.com/Siddharthk17)
 
-**Sharvani Marne** - Co-Developer
+**Sharvani Marne** - [@sharvanimarne](https://github.com/sharvanimarne)
 
 ---
 
@@ -150,7 +150,7 @@ MIT License
 
 <div align="center">
 
-### [🌐 VISIT LIVE SITE](https://artemis-fintellihub.netlify. app/)
+### [🌐 VISIT LIVE SITE](https://artemis-fintellihub.netlify.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F16,50:4A90E2,100:FFD700&height=120&section=footer" width="100%"/>
 
